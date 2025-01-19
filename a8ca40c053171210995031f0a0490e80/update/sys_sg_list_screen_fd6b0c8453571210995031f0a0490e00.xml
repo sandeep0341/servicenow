@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> My Hotel</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">7d6b4c8053171210995031f0a0490e3b</icon>
+        <name>My Hotels</name>
+        <parameter_screen/>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-19 14:52:43</sys_created_on>
+        <sys_id>fd6b0c8453571210995031f0a0490e00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Hotels</sys_name>
+        <sys_package display_value="hotel" source="x_1319175_hotel">a8ca40c053171210995031f0a0490e80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hotel">a8ca40c053171210995031f0a0490e80</sys_scope>
+        <sys_update_name>sys_sg_list_screen_fd6b0c8453571210995031f0a0490e00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-19 14:52:43</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd6b0c8453571210995031f0a0490e00"/>
+</record_update>

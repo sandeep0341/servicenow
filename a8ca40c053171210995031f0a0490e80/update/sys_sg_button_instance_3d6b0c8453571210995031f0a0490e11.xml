@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (My Hotel)">f56b0c8453571210995031f0a0490e10</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (My Hotel)</name>
+        <order/>
+        <parent>7d6b0c8453571210995031f0a0490e01</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-19 14:52:43</sys_created_on>
+        <sys_id>3d6b0c8453571210995031f0a0490e11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (My Hotel)</sys_name>
+        <sys_package display_value="hotel" source="x_1319175_hotel">a8ca40c053171210995031f0a0490e80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hotel">a8ca40c053171210995031f0a0490e80</sys_scope>
+        <sys_update_name>sys_sg_button_instance_3d6b0c8453571210995031f0a0490e11</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-19 14:52:43</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=3d6b0c8453571210995031f0a0490e11"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows>500</max_offline_rows>
+        <name>My Hotel Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="My Hotels">fd6b0c8453571210995031f0a0490e00</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-19 14:52:43</sys_created_on>
+        <sys_id>316b0c8453571210995031f0a0490e03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Hotel Item Stream Segment</sys_name>
+        <sys_package display_value="hotel" source="x_1319175_hotel">a8ca40c053171210995031f0a0490e80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hotel">a8ca40c053171210995031f0a0490e80</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_316b0c8453571210995031f0a0490e03</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-19 14:52:43</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

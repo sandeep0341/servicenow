@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (My Hotel)">fd6b0c8453571210995031f0a0490e0b</button>
+        <button_parent_table>x_1319175_hotel_my_hotel</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>name</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries>1</max_entries>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Name</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-19 14:52:43</sys_created_on>
+        <sys_id>f16b0c8453571210995031f0a0490e0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name</sys_name>
+        <sys_package display_value="hotel" source="x_1319175_hotel">a8ca40c053171210995031f0a0490e80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hotel">a8ca40c053171210995031f0a0490e80</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_f16b0c8453571210995031f0a0490e0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-19 14:52:43</sys_updated_on>
+        <table_name>x_1319175_hotel_my_hotel</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=f16b0c8453571210995031f0a0490e0c"/>
+</record_update>
